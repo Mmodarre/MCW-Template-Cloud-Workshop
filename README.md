@@ -1,7 +1,6 @@
-# Microsoft Cloud Workshop template *(replace with workshop name)*
-*Please provide an introduction to the workshop. For example:*
+# Microsoft Cloud Workshop Building data pipelines with Azure Data Factory
 
-Trey Research Inc. looks at the old way of doing things in retail and introduces innovative experiences that delight customers and drive sales. Their latest initiative focuses on intelligent vending machines that support commerce, engagement analytics, and intelligent promotions. 
+Contos Pty Ltd. has been in grocery retail business for over 20 years. Their business model is to franchise
 
 ## Target audience
 *Please list the target audience for this workshop. For example:*
